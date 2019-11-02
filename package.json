@@ -1,0 +1,23 @@
+{
+  "name": "dkp-discord-bot",
+  "version": "1.0.0",
+  "description": "Simple discord bot that connects to a google sheets file for tracking DKP in classic wow.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattkwiecien/dkp-discord-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattkwiecien/dkp-discord-bot/issues"
+  },
+  "homepage": "https://github.com/mattkwiecien/dkp-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
